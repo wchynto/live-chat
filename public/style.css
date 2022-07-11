@@ -1,0 +1,70 @@
+.container {
+  margin: auto 150px auto 150px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.header {
+  text-align: center;
+}
+
+.chat {
+  margin: auto 40px auto 40px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.form {
+  margin: 30px auto 30px auto;
+}
+
+.form {
+  text-align: center;
+}
+
+.form input {
+  width: 850px;
+  height: 30px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: rgb(0, 0, 0);
+}
+
+.form button {
+  width: 100px;
+  height: 35px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: rgb(0, 0, 0);
+}
+
+.message {
+  margin: 10px;
+  text-align: start;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.message div {
+  margin: 5px;
+}
+
+.user-message {
+  margin: 10px;
+  text-align: start;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: blue;
+}
+
+.user-message div {
+  margin: 5px;
+}
+
+.user-message .name {
+  text-align: end;
+}
+
+.user-message .text {
+  text-align: end;
+}
